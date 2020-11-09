@@ -130,3 +130,6 @@ dmypy.json
 
 # Virtualenv
 .virtualenv
+
+# Secrets
+src/golf_project/golf_project/secrets.json
